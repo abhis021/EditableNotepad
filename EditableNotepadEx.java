@@ -85,7 +85,7 @@ public class EditableNotepadEx implements ActionListener
 
         }
 
-        public static void main(String[] args) {
+public static void main(String[] args) {
             new EditableNotepadEx();
         }
 
